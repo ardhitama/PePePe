@@ -3,5 +3,6 @@ Halo para kolaborator PePePe
 Disini akan dituangkan beberapa petuah-petuah:
 1. index.html di / itu cuman untuk github page, ngga kepake untuk pepepe.org
 2. semua source code ada di folder pepepe.org
+3. framework menggunakan CodeIgniter tanpa folder 'system'
 
 *kalo perlu ditambah petuahnya silahkan saja :)
