@@ -1,0 +1,11 @@
+/system
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac OS X
+.DS_Store
+
+# CodeIgniter
+/application/logs/*
