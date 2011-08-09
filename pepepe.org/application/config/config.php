@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://pepepe.org';
+$config['base_url']	= $_SERVER['SERVER_NAME'] . '/';
 
 /*
 |--------------------------------------------------------------------------
